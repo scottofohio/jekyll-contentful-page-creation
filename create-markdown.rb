@@ -39,6 +39,5 @@ require 'json'
       }
     end
   end
-  ContentType('page', '_pages')
-  ContentType('brands', '_brands')
+  ContentType('COLLECTION', '_dir')
 
